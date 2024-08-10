@@ -7,4 +7,7 @@
         width: 85%;
         margin: 0 auto;
     }
+    .btn-style{
+        @apply text-white bg-rose-500 font-sans font-medium py-3 px-8 rounded-lg;
+    }
 }
